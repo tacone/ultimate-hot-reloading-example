@@ -1,6 +1,5 @@
 {
   "presets": [
-    "react",
     ["env"]
   ],
   "plugins": ["transform-runtime"]

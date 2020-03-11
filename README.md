@@ -1,5 +1,7 @@
 # Ultimate Hot Reloading Example
 
+# ! forked to handle server only !
+
 👉👉👉👉 This project is intended as an *example* of how to fit an application together, the idea is that you read the code and understand how it works - then apply the same approach in your own projects. 👈👈👈👈
 
 This is **NOT** intended as a boilerplate or a starter kit, I don't recommend using it as a base for a project unless you're happy that you know how stuff fits together.
